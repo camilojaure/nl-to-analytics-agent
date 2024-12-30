@@ -1,0 +1,44 @@
+# Virtual environment
+env/
+venv/
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sensitive configuration files
+.env
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled C extensions
+*.so
+
+# Test coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Other
+*.sqlite3
