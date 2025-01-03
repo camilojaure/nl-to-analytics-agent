@@ -1,4 +1,4 @@
-#!/Users/camilojaureguiberry/Documents/Projects/Research/nl-to-analytics-agent/env/bin/python3
+#!/Users/camilojaureguiberry/Documents/Projects/Research/nl-to-analytics-agent/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
